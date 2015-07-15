@@ -1,0 +1,22 @@
+{
+  "name": "kit-sizes",
+  "version": "0.0.1",
+  "authors": [
+    "Dani Postigo <dani.postigo@gmail.com>"
+  ],
+  "description": "kit sizes",
+  "main": "less/kit-sizes.less",
+  "keywords": [
+    "less",
+    "css",
+    "sizes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
